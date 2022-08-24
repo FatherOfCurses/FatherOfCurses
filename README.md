@@ -1,4 +1,4 @@
-<style>img {width:1000px}</style>
+
 <h1 align="center">Hi 👋, I'm Colin Principe</h1>
 <h3 align="center">I'm a largely self-taught Software Developer working as a Senior Consultant Engineer for Workstate LLC.</h3>
 
@@ -13,7 +13,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/fatherofcurses" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
+<img align="center" style="filter=invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%)" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/colinprincipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colinprincipe" height="30" width="40" /></a>
 </p>
 
