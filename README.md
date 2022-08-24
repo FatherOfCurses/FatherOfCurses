@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **principe@hey.com**
 
-<p align="left" style="background-color:MediumSeaGreen">
+<p align="left" style="background-color:MediumSeaGreen;">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/fatherofcurses" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
