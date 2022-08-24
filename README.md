@@ -1,17 +1,3 @@
-<script type="text/Javacript">
-function checkDarkMode() {
-  document.querySelector("#body).classList.toggle('darkMode');
-}
-</script>
-<style type="text/css">
-.darkMode{
-background:black;
-height:100vh;
-}
-svg{ fill:black;}
-.darkMode svg {fill:white;}
-</style>
-
 <h1 align="center">Hi 👋, I'm Colin Principe</h1>
 <h3 align="center">I'm a largely self-taught Software Developer working as a Senior Consultant Engineer for Workstate LLC.</h3>
 
