@@ -10,10 +10,10 @@
 
 - 📫 How to reach me **principe@hey.com**
 
-<p align="left">
+<p align="left" style="background-color:MediumSeaGreen">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/fatherofcurses" target="blank">
-<img align="center" style="color: red;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/colinprincipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colinprincipe" height="30" width="40" /></a>
 </p>
 
