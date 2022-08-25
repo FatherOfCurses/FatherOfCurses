@@ -1,21 +1,44 @@
+Hi 👋, I'm Colin Principe
+=========================
 
-<h1 align="center">Hi 👋, I'm Colin Principe</h1>
-<h3 align="center">I'm a largely self-taught Software Developer working as a Senior Consultant Engineer for Workstate LLC.</h3>
+### I'm a largely self-taught Software Developer working as a Senior Consultant Engineer for Workstate LLC.
 
 - 🔭 During my free time, I’m currently working on [Guitar Journey, an application to assist guitar students](https://github.com/FatherOfCurses/guitarJourney)
-
-- 🌱 I’m currently learning **Network Security, Angular 14**
-
-- 🤝 I’m looking for help with **ensuring proper Jest testing coverage**
-
+- 🌱 I’m currently learning **Network Security, Angular 14** 
+- 🤝 I’m looking for help with **ensuring proper Jest testing coverage** 
 - 📫 How to reach me **principe@hey.com**
 
-<!-- <p align="left" style="background-color:MediumSeaGreen;">
-<h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/fatherofcurses" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/devdotto.svg" alt="fatherofcurses" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/colinprincipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="colinprincipe" height="30" width="40" /></a>
-</p> -->
+## Socials:
+[<img src="icons/devdotto.svg" alt="devto" width="64" height="64"/>](https://dev.to/fatherofcurses)
+[<img src="icons/linkedin.svg" alt="devto" width="64" height="64"/>](https://www.linkedin.com/in/colinprincipe/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#B3B3B3" d="M63.81 1.026L4.553 21.88l9.363 77.637 49.957 27.457 50.214-27.828 9.36-77.635z"/><path fill="#A6120D" d="M117.536 25.998L63.672 7.629v112.785l45.141-24.983z"/><path fill="#DD1B16" d="M11.201 26.329l8.026 69.434 44.444 24.651V7.627z"/><path fill="#F2F2F2" d="M78.499 67.67l-14.827 6.934H48.044l-7.347 18.374-13.663.254 36.638-81.508L78.499 67.67zm-1.434-3.491L63.77 37.858 52.864 63.726h10.807l13.394.453z"/><path fill="#B3B3B3" d="M63.671 11.724l.098 26.134 12.375 25.888H63.698l-.027 10.841 17.209.017 8.042 18.63 13.074.242z"/></svg> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Languages and Tools:
+
+[<img src="icons/angular.svg" alt="angular" width="64" height="64"/> ](https://angular.io)
+[<img src="icons/amazonlambda.svg" alt="aws lambda" width="64" height="64"/> ](https://aws.amazon.com/lambda/)
+[<img src="icons/amazons3.svg" alt="aws s3" width="64" height="64"/> ](https://aws.amazon.com/s3/)
+[<img src="icons/amazonapigateway.svg" alt="aws apigateway" width="64" height="64" /> ](https://aws.amazon.com/api-gateway/)
+[<img src="icons/amazoncloudwatch.svg" alt="aws cloudwatch" width="64" height="64"/> ](https://aws.amazon.com/cloudwatch/)
+[<img src="icons/amazondynamodb.svg" alt="aws dynamodb" width="64" height="64"/> ](https://aws.amazon.com/dynamodb/)
+[<img src="icons/cucumber.svg" alt="cucumber" width="64" height="64"/> ](https://cucumber.io/)
+[<img src="icons/cypress.svg" alt="cypress" width="64" height="64"/> ](https://www.cypress.io/)
+[<img src="icons/docker.svg" alt="docker" width="64" height="64"/> ](https://docker.com)
+[<img src="icons/express.svg" alt="expressjs" width="64" height="64"/> ](https://expressjs.com)
+[![graphql](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) ](https://graphql.org)
+[<img src="icons/html5.svg" alt="html5" width="64" height="64"/> ](https://www.w3.org/html/)
+[<img src="icons/jasmine.svg" alt="jasmine" width="64" height="64"/> ](https://jasmine.github.io/)
+[<img src="icons/java.svg" alt="java" width="64" height="64"/> ](https://www.java.com)
+[<img src="icons/javascript.svg" alt="javascript" width="64" height="64" /> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg) ](https://jestjs.io)
+[<img src="icons/linux.svg" alt="linux" width="64" height="64" /> ](https://www.linux.org/)
+[<img src="icons/mongodb.svg" alt="mongodb" width="64" height="64" /> ](https://www.mongodb.com/)
+[<img src="icons/mysql.svg" alt="mysql" width="64" height="64" /> ](https://www.mysql.com/)
+[<img src="icons/nginx.svg" alt="nginx" width="64" height="64" /> ](https://www.nginx.com)
+[<img src="icons/nodejs.svg" alt="nodejs" width="64" height="64" />  ](https://nodejs.org)
+[<img src="icons/postgresql.svg" alt="postgresql" width="64" height="64" /> ](https://www.postgresql.org)
+[<img src="icons/react.svg" alt="react" width="64" height="64" />  ](https://reactjs.org/)
+[<img src="icons/reactivex.svg" alt="rxjs" width="64" height="64" />  ](https://rxjs.dev/)
+[<img src="icons/saas.svg" alt="saas" width="64" height="64" />  ](https://reactjs.org/)
+[<img src="icons/spring.svg" alt="spring" width="64" height="64" /> ](https://spring.io/)
+[<img src="icons/swagger.svg" alt="swagger" width="64" height="64" /> ](https://swagger.io/)
+[<img src="icons/typescript.svg" alt="typescript" width="64" height="64" /> ](https://www.typescriptlang.org/)
