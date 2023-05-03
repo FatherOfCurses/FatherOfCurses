@@ -1,8 +1,7 @@
 Hi 👋, I'm Colin Principe
 =========================
 
-### I'm a largely self-taught Software Developer working as a Senior Consultant Engineer for Workstate LLC.
-
+### I'm a largely self-taught Software Developer currently seeking new opportunities in Front-End or Full Stack development.
 - 🔭 During my free time, I’m currently working on [Guitar Journey, an application to assist guitar students](https://github.com/FatherOfCurses/guitarJourney)
 - 🌱 I’m currently learning **Network Security, Angular 14** 
 - 🤝 I’m looking for help with **ensuring proper Jest testing coverage** 
