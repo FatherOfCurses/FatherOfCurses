@@ -1,10 +1,10 @@
 Hi 👋, I'm Colin Principe
 =========================
 
-### I'm a largely self-taught Software Developer currently seeking new opportunities in Front-End or Full Stack development.
+### I'm a largely self-taught Software Developer currently working on projects in my spare time.
 - 🔭 During my free time, I’m currently working on [Guitar Journey, an application to assist guitar students](https://github.com/FatherOfCurses/guitarJourney)
-- 🌱 I’m currently learning **Network Security, Angular 14** 
-- 🤝 I’m looking for help with **ensuring proper Jest testing coverage** 
+- 🌱 I’m currently learning **Angular 20** and **Smart Home Automation**
+- 🤝 I’m looking for help with **ensuring proper Jest testing coverage** and **finding alternatives to hosting with AWS** 
 - 📫 How to reach me **principe@hey.com**
 
 ## Socials:
